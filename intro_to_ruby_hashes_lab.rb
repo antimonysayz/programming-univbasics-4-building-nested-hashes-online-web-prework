@@ -1,5 +1,5 @@
 def base_hash
-  hash = {key: = 1}
+  hash = {:key => 1}
   hash
 end
 
