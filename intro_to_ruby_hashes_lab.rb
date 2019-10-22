@@ -13,8 +13,10 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-  hash = {:railroads => {:pieces => 4, :rent_in_dollars => {:Reading => {}, :Pennsylvania => {}, :b_and_o_railroad => {}, :shortline => {}}
-    }
+  hash = {:railroads => {:pieces => 4, :rent_in_dollars => {:Reading => {}, :Pennsylvania => {}, :b_and_o_railroad => {}, :shortline => {}}, :names ={}
+    
+    
+  }
   }
   hash
 end
